@@ -13,28 +13,17 @@ I enjoy turning ideas into functional applications, writing maintainable code, a
 
 ---
 
-##  Tech Stack
 
-**Frontend**
+## 🛠️ Tech Stack
 
-- JavaScript
-- TypeScript
-- Vue.js 3
-- Nuxt 3
-- React
-- Next.js
-- HTML5 & CSS3 / SCSS
+### Frontend
 
-**Backend & Databases**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,vue,nuxtjs,react,nextjs,html,css&perline=8" />
+</p>
 
-- Laravel
-- Python
-- Django
-- SQLite
+### Tools & Backend
 
-**Tools**
-
-- Git & GitHub
-- Vite
-- ESLint
-- Prettier
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,python,django,sqlite&perline=6" />
+</p>
