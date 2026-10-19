@@ -1,4 +1,4 @@
-# Hi, I'm Anatolyi
+# Hi, I'm Anatolyi 👋
 
 ### Full-Stack Developer
 
