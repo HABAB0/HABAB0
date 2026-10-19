@@ -1,8 +1,8 @@
-# Hi, I'm HABAB0 👋
+# Hi, I'm Anatolyi
 
-### Junior Full-Stack Developer
+### Full-Stack Developer
 
-I'm a junior developer interested in building modern, interactive web applications. I work with JavaScript and TypeScript, with a focus on Vue.js and Nuxt, and I'm expanding my skills across frontend and backend development.
+I'm a developer interested in building modern, interactive web applications. I work with JavaScript and TypeScript, with a focus on Vue.js and Nuxt, and I'm expanding my skills across frontend and backend development.
 
 I enjoy turning ideas into functional applications, writing maintainable code, and learning through hands-on projects.
 
@@ -14,7 +14,7 @@ I enjoy turning ideas into functional applications, writing maintainable code, a
 ---
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 
 <p align="left">
