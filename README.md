@@ -18,5 +18,5 @@ I enjoy turning ideas into functional applications, writing maintainable code, a
 
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxtjs,react,nextjs,tailwind,git,github,vscode,python,django,postgresql,vite,docker,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxtjs,react,nextjs,tailwind,scss,bootstrapgit,github,vscode,python,django,postgresql,vite,docker,figma,zod" />
 </p>
