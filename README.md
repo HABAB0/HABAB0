@@ -1,22 +1,20 @@
-# Hi, I'm Anatolyi 👋
+# Hi, I'm Anatolyii 👋
 
-### Full-Stack Developer
+### Fullstack Developer
 
-I'm a developer interested in building modern, interactive web applications. I work with JavaScript and TypeScript, with a focus on Vue.js and Nuxt, and I'm expanding my skills across frontend and backend development.
-
-I enjoy turning ideas into functional applications, writing maintainable code, and learning through hands-on projects.
-
--  Focused on web application development
--  Interested in frontend architecture and full-stack development
--  Continuously improving my development skills
--  Open to Junior Developer opportunities
-
----
-
+I’m a web full‑stack developer, specializing in the Vue/React and TypeScript ecosystems. I'm currently deepening my knowledge of backend development, REST APIs, databases, and server-side application architecture. Also, I enjoy participating in hackathons, collaborating with other developers, and building solutions under time constraints.
 
 ## Tech Stack
-
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxtjs,react,nextjs,tailwind,scss,git,github,vscode,python,django,postgresql,vite,docker,figma,zod" />
+</p>
+
+## 📫 Connect with Me
+<p align="left">
+  <a href="https://t.me/@Qrrrfrtt" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="mailto:ТВОЯ_ПОЧТА@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
